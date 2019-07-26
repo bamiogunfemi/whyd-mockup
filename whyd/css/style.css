@@ -1,0 +1,155 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-right{
+justify-content: right;
+}
+.intro-text{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 120px;
+    line-height: 30px
+
+}
+.shift
+{
+    margin-right: 100px;
+}
+.band{
+font-weight: 600;
+font-size: 5px;
+}
+#watch{
+    margin-left: 0px;
+}
+
+
+
+.justify-content-right{
+    margin-left: auto;
+}
+
+.pics {
+    width: 32.9%;
+    height: 400px;
+    margin-left: 2px;
+    
+}
+
+.whyd{
+    margin-right: 30px;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+
+.column {
+    float: left;
+    width: 50%;
+    font-size: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+#aesthetic-img{
+
+    width: 300px;
+    height: 400px;
+    margin-right: auto;
+    float: left;
+    
+}
+#footer{
+    list-style-type: none;
+        margin: 0;
+    padding: 0;
+  }
+  
+  
+  li.footer{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+  }
+.no1{
+    width: 300px;
+    margin-left: 680px;
+    font-size: 15px;
+    
+}
+#no1{
+    width: 300px;
+    margin-right: 1000px;
+    margin-top: 150px;
+    font-size: 15px;
+}
+.box-1{
+    margin-left: -15px;
+}
+.box-2{
+  margin-right: -170px;
+}
+.box-3{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#think{
+    font-size: 30px;
+    color:grey;
+    
+    margin-left: 25px;
+}
+.bold{
+    font-size: 30px;
+    
+}
+#say{
+    background-color: #f1f1f1;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.row{
+   padding-left: 30px;
+    column-gap: 50rem;
+    
+    display: block
+
+
+}
+#story{
+    padding-left: 20px;
+}
+
+.row:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+#playlist{
+    height: auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+#ask{
+    color: gray;
+text-align: center;
+font-size: 35px;
+    
+}
+.img-00{
+    float: left;
+    margin: 0 15px 0 0;
+}
+#img-01{
+    float: right;
+    margin: 0 0 0 15px;
+    margin-top: -440px;
+}
